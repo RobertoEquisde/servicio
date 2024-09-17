@@ -26,3 +26,8 @@ Para instalar las dependencias necesarias, ejecuta el siguiente comando:
 
 ```bash
 pip install streamlit numpy pandas matplotlib scipy
+```
+lo primero que hice fue tomar las 3 graficas que me dieron 
+![grafica1](grafica.png)
+![grafica2](grafica2.png)
+![grafica4](grafica3.png)
