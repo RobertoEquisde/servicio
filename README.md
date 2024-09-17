@@ -27,7 +27,21 @@ Para instalar las dependencias necesarias, ejecuta el siguiente comando:
 ```bash
 pip install streamlit numpy pandas matplotlib scipy
 ```
+para iniciar el programa utilizamos
+```bash
+streamlit run funcon.py
+
+streamlit run practica.py
+```
 lo primero que hice fue tomar las 3 graficas que me dieron 
 - ![grafica1](grafica.png)
 - ![grafica2](grafica2.png)
 - ![grafica4](grafica3.png)
+y crear un programa que detectara su ajuste para asi comparar los datos que se ingresaran al csv  con estos ajustes
+-[ajuste1](ajuste1.png)
+-[ajuste2](ajuste2.png)
+-[ajuste3](ajuste3.png)
+##programa
+y una vez con esto podremos subir nuestro archivo csv donde se realizaran las funciones que se nos pidieron y nos indicara  el patron al que mas se acerca la grafica de nuestros datos csv
+-[programa1](programa1.png)
+-[programa2](programa2.png)
