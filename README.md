@@ -12,8 +12,8 @@ Este proyecto permite analizar patrones lineales en conjuntos de datos de series
 - Visualización de los datos originales, los datos resampleados y la línea ajustada.
 
 ## Requisitos
-
-- **Python 3.x**
+- **anaconda.navigator**
+- **python 3.12.6**
 - **Streamlit**
 - **NumPy**
 - **Pandas**
